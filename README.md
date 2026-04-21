@@ -65,6 +65,29 @@ sanjay = {
 ## 🚀 Featured Projects
 
 <table>
+  <tr>
+<td width="50%" valign="top">
+<h3>Multimodal RAG Assistant</h3>
+<p>AI assistant that ingests and reasons over both text and images using a retrieval-augmented pipeline. Chunks, embeds, and indexes content into a vector store, then queries with a multimodal LLM backbone.</p>
+<p>
+  <img src="https://img.shields.io/badge/RAG-121212?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>RAG Cold Email AI</h3>
+<p>Context-aware cold outreach generator that retrieves company/role-specific information via RAG and crafts personalized emails. Cuts generic templating by grounding generation in retrieved context.</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-121212?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-8B0000?style=flat-square"/>
+</p>
+</td>
+</tr>
+  <tr><td colspan="2"><br/></td></tr>
 <tr>
 <td width="50%" valign="top">
 <h3>Smart Finance Tracker</h3>
@@ -87,29 +110,8 @@ sanjay = {
 </p>
 </td>
 </tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="50%" valign="top">
-<h3>Multimodal RAG Assistant</h3>
-<p>AI assistant that ingests and reasons over both text and images using a retrieval-augmented pipeline. Chunks, embeds, and indexes content into a vector store, then queries with a multimodal LLM backbone.</p>
-<p>
-  <img src="https://img.shields.io/badge/RAG-121212?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>RAG Cold Email AI</h3>
-<p>Context-aware cold outreach generator that retrieves company/role-specific information via RAG and crafts personalized emails. Cuts generic templating by grounding generation in retrieved context.</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-121212?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-8B0000?style=flat-square"/>
-</p>
-</td>
-</tr>
+
+
 </table>
 ---
 
