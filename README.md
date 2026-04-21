@@ -115,10 +115,10 @@ Context-aware cold outreach generator that retrieves company/role-specific infor
 
 ## 🔭 What I'm Working On
 
-- 📚 Deepening deep learning fundamentals through fast.ai
-- 🤖 Improving RAG architectures for better context retrieval
-- ⚡ Automating CI/CD workflows with GitHub Actions
-- 🔍 Exploring improved chunking and re-ranking strategies for RAG
+-  Deepening deep learning fundamentals through fast.ai
+-  Improving RAG architectures for better context retrieval
+-  Automating CI/CD workflows with GitHub Actions
+-  Exploring improved chunking and re-ranking strategies for RAG
 
 ---
 
