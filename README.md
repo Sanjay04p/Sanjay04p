@@ -68,7 +68,7 @@ sanjay = {
   <tr>
 <td width="50%" valign="top">
 <h3>Multimodal RAG Assistant</h3>
-<p>AI assistant that ingests and reasons over both text and images using a retrieval-augmented pipeline. Chunks, embeds, and indexes content into a vector store, then queries with a multimodal LLM backbone.</p>
+<p>AI assistant that ingests and reasons over text, images and videos using a retrieval-augmented pipeline. Chunks, embeds, and indexes content into a vector store, then queries with a multimodal LLM backbone.</p>
 <p>
   <img src="https://img.shields.io/badge/RAG-121212?style=flat-square"/>
   <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white"/>
