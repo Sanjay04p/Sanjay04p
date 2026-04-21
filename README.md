@@ -67,42 +67,50 @@ sanjay = {
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 💰 Smart Finance Tracker
-Personal finance tool that combines **Llama 3**-powered natural language insights with linear regression forecasting to automate tracking and predict future spending patterns. Ask your finances anything — get actionable answers.
-
-`Python` `Streamlit` `Llama 3` `Linear Regression` `LLMs`
-
+<h3>Smart Finance Tracker</h3>
+<p>Personal finance tool that combines <b>Llama 3</b>-powered natural language insights with linear regression forecasting to automate tracking and predict future spending patterns. Ask your finances anything — get actionable answers.</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Llama_3-0466C8?style=flat-square&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linear_Regression-20B2AA?style=flat-square"/>
+</p>
 </td>
 <td width="50%" valign="top">
-
-### 📊 FinPulse AI
-Real-time financial sentiment analysis and stock monitoring tool. Combines live market data from the Finnhub API with NLP-driven sentiment scoring to surface signals on equity movements.
-
-`Python` `NLP` `Finnhub API` `Sentiment Analysis` `Streamlit`
-
+<h3>FinPulse AI</h3>
+<p>Real-time financial sentiment analysis and stock monitoring tool. Combines live market data from the Finnhub API with NLP-driven sentiment scoring to surface signals on equity movements.</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-4B0082?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Finnhub_API-0052CC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
 </td>
 </tr>
+<tr><td colspan="2"><br/></td></tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🖼️ Multimodal RAG Assistant
-AI assistant that ingests and reasons over both text and images using a retrieval-augmented pipeline. Chunks, embeds, and indexes content into a vector store, then queries with a multimodal LLM backbone.
-
-`RAG` `LLMs` `FAISS` `Pinecone` `LangChain` `Vision Models`
-
+<h3>Multimodal RAG Assistant</h3>
+<p>AI assistant that ingests and reasons over both text and images using a retrieval-augmented pipeline. Chunks, embeds, and indexes content into a vector store, then queries with a multimodal LLM backbone.</p>
+<p>
+  <img src="https://img.shields.io/badge/RAG-121212?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
+</p>
 </td>
 <td width="50%" valign="top">
-
-### ✉️ RAG Cold Email AI
-Context-aware cold outreach generator that retrieves company/role-specific information via RAG and crafts personalized emails. Cuts generic templating by grounding generation in retrieved context.
-
-`Python` `RAG` `LLMs` `LangChain` `Prompt Engineering`
-
+<h3>RAG Cold Email AI</h3>
+<p>Context-aware cold outreach generator that retrieves company/role-specific information via RAG and crafts personalized emails. Cuts generic templating by grounding generation in retrieved context.</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-121212?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-8B0000?style=flat-square"/>
+</p>
 </td>
 </tr>
 </table>
-
 ---
 
 ## 📈 GitHub Stats
