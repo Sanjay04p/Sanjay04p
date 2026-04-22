@@ -25,10 +25,15 @@ Data Science undergraduate who builds and ships AI systems end-to-end. I care ab
 
 ```python
 sanjay = {
-    "focus"    : ["LLM Systems", "RAG Architectures", "NLP / NER", "Full-Stack ML"],
-    "current"  : "Deepening deep learning fundamentals & improving RAG architectures",
-    "location" : "Bengaluru, India 🇮🇳",
-    "looking_for": "AI/ML internships & research roles",
+    "focus": [
+        "LLM Systems",
+        "RAG Architectures",
+        "NLP / NER",
+        "Full-Stack ML"
+    ],
+    "current": "Deepening deep learning fundamentals & improving RAG architectures",
+    "location": "Bengaluru, India 🇮🇳",
+    "looking_for": "AI/ML internships & research roles"
 }
 ```
 
