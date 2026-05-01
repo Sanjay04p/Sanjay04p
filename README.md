@@ -121,8 +121,6 @@ sanjay = {
 
 ## 📈 GitHub Stats
 
-
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay04p&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
 </div>
