@@ -59,7 +59,6 @@ sanjay = {
 
 **Web / Infra**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -121,6 +120,8 @@ sanjay = {
 ---
 
 ## 📈 GitHub Stats
+
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay04p&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
