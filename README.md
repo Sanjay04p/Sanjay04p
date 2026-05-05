@@ -77,17 +77,18 @@ sanjay = {
   <img src="https://img.shields.io/badge/RAG-121212?style=flat-square"/>
   <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/FAISS-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Llama_3-0466C8?style=flat-square&logo=meta&logoColor=white"/>
 </p>
 </td>
 <td width="50%" valign="top">
 <h3>RAG Cold Email AI</h3>
 <p>Context-aware cold outreach generator that retrieves company/role-specific information via RAG and crafts personalized emails. Cuts generic templating by grounding generation in retrieved context.</p>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-3776AB?style=flat-square&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-121212?style=flat-square"/>
   <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-8B0000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Playwright-031df4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
 </p>
 </td>
 </tr>
@@ -101,6 +102,7 @@ sanjay = {
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Llama_3-0466C8?style=flat-square&logo=meta&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linear_Regression-20B2AA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Plotly-150458?style=flat-square"/>
 </p>
 </td>
 <td width="50%" valign="top">
@@ -108,7 +110,7 @@ sanjay = {
 <p>Real-time financial sentiment analysis and stock monitoring tool. Combines live market data from the Finnhub API with NLP-driven sentiment scoring to surface signals on equity movements.</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-4B0082?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FinBERT-4B0082?style=flat-square"/>
   <img src="https://img.shields.io/badge/Finnhub_API-0052CC?style=flat-square"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
