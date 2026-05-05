@@ -117,6 +117,57 @@ sanjay = {
 
 
 </table>
+
+
+---
+
+## 📃 Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Building RAG Agents with LLMs</h3>
+<p><b>Nvidia DeepLearning Institute</b> &nbsp;·&nbsp; Jan 2026</p>
+<p>
+  <a href="[YOUR_CREDENTIAL_LINK](https://learn.nvidia.com/certificates?id=F3tYC29lRjeHw-s8eik1ZA)">
+    <img src="https://img.shields.io/badge/View_Credential-0A66C2?style=flat-square&logo=nvidia&logoColor=white"/>
+  </a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>Data Science & Analytics</h3>
+<p><b>HP Foundation</b> &nbsp;·&nbsp; Dec 2025</p>
+<p>
+  <a href="https://www.life-global.org/certificate/7eb76793-59d1-4f74-9c8b-931c0b0afb3e">
+    <img src="https://img.shields.io/badge/View_Credential-0A66C2?style=flat-square&logo=hp&logoColor=white"/>
+  </a>
+</p>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Python for Data Science and Machine Learning Masterclass</h3>
+<p><b>Udemy</b> &nbsp;·&nbsp; July 2025</p>
+<p>
+  <a href="https://www.udemy.com/certificate/UC-04ca5762-ab2e-4acc-a981-dd3de9d50301/">
+    <img src="https://img.shields.io/badge/View_Credential-0A66C2?style=flat-square&logo=udemy&logoColor=white"/>
+  </a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>Problem solving (Intermidiate)</h3>
+<p><b>HackerRank</b> &nbsp;·&nbsp; July 2025</p>
+<p>
+  <a href="https://www.hackerrank.com/certificates/10ed095539db">
+    <img src="https://img.shields.io/badge/View_Credential-0A66C2?style=flat-square&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+</td>
+</tr>
+</table>
+
+
 ---
 
 ## 📈 GitHub Stats
