@@ -156,7 +156,7 @@ sanjay = {
 </p>
 </td>
 <td width="50%" valign="top">
-<h3>Problem solving (Intermidiate)</h3>
+<h3>Problem Solving (Intermidiate)</h3>
 <p><b>HackerRank</b> &nbsp;·&nbsp; July 2025</p>
 <p>
   <a href="https://www.hackerrank.com/certificates/10ed095539db">
