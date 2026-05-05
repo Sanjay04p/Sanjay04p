@@ -127,9 +127,9 @@ sanjay = {
 <tr>
 <td width="50%" valign="top">
 <h3>Building RAG Agents with LLMs</h3>
-<p><b>Nvidia DeepLearning Institute</b> &nbsp;·&nbsp; Jan 2026</p>
+<p><b>Nvidia Deep Learning Institute</b> &nbsp;·&nbsp; Jan 2026</p>
 <p>
-  <a href="[YOUR_CREDENTIAL_LINK](https://learn.nvidia.com/certificates?id=F3tYC29lRjeHw-s8eik1ZA)">
+  <a href="https://learn.nvidia.com/certificates?id=F3tYC29lRjeHw-s8eik1ZA">
     <img src="https://img.shields.io/badge/View_Credential-0A66C2?style=flat-square&logo=nvidia&logoColor=white"/>
   </a>
 </p>
