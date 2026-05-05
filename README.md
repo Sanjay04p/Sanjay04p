@@ -130,7 +130,7 @@ sanjay = {
 <p><b>Nvidia Deep Learning Institute</b> &nbsp;·&nbsp; Jan 2026</p>
 <p>
   <a href="https://learn.nvidia.com/certificates?id=F3tYC29lRjeHw-s8eik1ZA">
-    <img src="https://img.shields.io/badge/View_Credential-0A66C2?style=flat-square&logo=nvidia&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Credential-1c1c1e?style=flat-square&logo=nvidia&logoColor=76B900"/>
   </a>
 </p>
 </td>
@@ -139,7 +139,7 @@ sanjay = {
 <p><b>HP Foundation</b> &nbsp;·&nbsp; Dec 2025</p>
 <p>
   <a href="https://www.life-global.org/certificate/7eb76793-59d1-4f74-9c8b-931c0b0afb3e">
-    <img src="https://img.shields.io/badge/View_Credential-0A66C2?style=flat-square&logo=hp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Credential-1c1c1e?style=flat-square&logo=hp&logoColor=0096D6"/>
   </a>
 </p>
 </td>
@@ -151,7 +151,7 @@ sanjay = {
 <p><b>Udemy</b> &nbsp;·&nbsp; July 2025</p>
 <p>
   <a href="https://www.udemy.com/certificate/UC-04ca5762-ab2e-4acc-a981-dd3de9d50301/">
-    <img src="https://img.shields.io/badge/View_Credential-0A66C2?style=flat-square&logo=udemy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Credential-1c1c1e?style=flat-square&logo=udemy&logoColor=A435F0"/>
   </a>
 </p>
 </td>
@@ -160,7 +160,7 @@ sanjay = {
 <p><b>HackerRank</b> &nbsp;·&nbsp; July 2025</p>
 <p>
   <a href="https://www.hackerrank.com/certificates/10ed095539db">
-    <img src="https://img.shields.io/badge/View_Credential-0A66C2?style=flat-square&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Credential-1c1c1e?style=flat-square&logo=hackerrank&logoColor=00EA64"/>
   </a>
 </p>
 </td>
