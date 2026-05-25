@@ -88,8 +88,8 @@ sanjay = {
 <h3>RAG Cold Email AI</h3>
 <p>Context-aware cold outreach generator that retrieves company/role-specific information via RAG and crafts personalized emails. Cuts generic templating by grounding generation in retrieved context.</p>
 <p>
-  <a href="YOUR_REPO_URL_HERE">Repo</a> |
-  <a href="YOUR_LIVE_DEMO_URL_HERE">Live Demo</a>
+  <a href="https://github.com/Sanjay04p/RAG-Cold-Email-Agent">Repo</a> |
+  <a href="https://autopitch-ai.sanjaysp.in">Live Demo</a>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Gemini-3776AB?style=flat-square&logo=google&logoColor=white"/>
