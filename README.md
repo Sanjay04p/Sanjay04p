@@ -106,8 +106,8 @@ sanjay = {
 <h3>Smart Finance Tracker</h3>
 <p>Personal finance tool that combines <b>Llama 3</b>-powered natural language insights with linear regression forecasting to automate tracking and predict future spending patterns. Ask your finances anything — get actionable answers.</p>
 <p>
-  <a href="YOUR_REPO_URL_HERE">Repo</a> |
-  <a href="YOUR_LIVE_DEMO_URL_HERE">Live Demo</a>
+  <a href="https://github.com/Sanjay04p/Smart-Personal-Finance-Tracker">Repo</a> |
+  <a href="https://smart-personal-finance-tracker.streamlit.app/">Live Demo</a>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -121,8 +121,8 @@ sanjay = {
 <h3>FinPulse AI</h3>
 <p>Real-time financial sentiment analysis and stock monitoring tool. Combines live market data from the Finnhub API with NLP-driven sentiment scoring to surface signals on equity movements.</p>
 <p>
-  <a href="YOUR_REPO_URL_HERE">Repo</a> |
-  <a href="YOUR_LIVE_DEMO_URL_HERE">Live Demo</a>
+  <a href="https://github.com/Sanjay04p/FinPulse-AI-Monitor">Repo</a> |
+  <a href="https://finpulse-ai-monitor-9.streamlit.app/">Live Demo</a>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
