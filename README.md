@@ -18,6 +18,12 @@
   <a href="https://sanjayp.dev">
     <img src="https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/sanjayp0412005">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://leetcode.com/u/sanjay_sp/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Sanjay04p&style=for-the-badge&color=2DD4BF&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
