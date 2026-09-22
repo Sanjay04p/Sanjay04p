@@ -67,9 +67,9 @@
 ![Build clear pipelines](https://img.shields.io/badge/Build-Clear%20Pipelines-8B5CF6?style=for-the-badge)
 ![Measure useful AI systems](https://img.shields.io/badge/Measure-Useful%20AI%20Systems-F59E0B?style=for-the-badge)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay04p&bg_color=050816&color=E5E7EB&line=2DD4BF&point=F59E0B&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
-</p>
+</p> -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,35:12355B,75:0B1120,100:050816&height=130&section=footer" width="100%" alt="Footer banner"/>
