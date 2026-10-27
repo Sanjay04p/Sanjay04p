@@ -18,12 +18,6 @@
   <a href="https://sanjayp.dev">
     <img src="https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/sanjayp0412005">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://leetcode.com/u/sanjay_sp/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=Sanjay04p&style=for-the-badge&color=2DD4BF&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
@@ -31,7 +25,7 @@
 
 | About Me | Current Focus |
 | --- | --- |
-| I am a Data Science undergraduate from Bengaluru, India, building AI systems that are useful outside the demo window. My work sits around LLM applications, retrieval-augmented generation, NLP and full-stack ML products.<br/><br/>I like the messy middle: turning rough research ideas into clean pipelines, reliable interfaces, and products people can actually try.<br/><br/>![Role](https://img.shields.io/badge/Role-Data%20Science%20Student-2DD4BF?style=for-the-badge) ![Base](https://img.shields.io/badge/Base-Bengaluru%2C%20India-F59E0B?style=for-the-badge) | ![LLM Systems](https://img.shields.io/badge/LLM%20Systems-050816?style=for-the-badge) ![RAG Architectures](https://img.shields.io/badge/RAG%20Architectures-12355B?style=for-the-badge) ![NLP Pipelines](https://img.shields.io/badge/NLP%20Pipelines-8B5CF6?style=for-the-badge) ![ML Dashboards](https://img.shields.io/badge/ML%20Dashboards-2DD4BF?style=for-the-badge)<br/> 
+| I am a Data Science undergraduate from Bengaluru, India, building AI systems that are useful outside the demo window. My work sits around LLM applications, retrieval-augmented generation, NLP and full-stack ML products.<br/><br/>I like the messy middle: turning rough research ideas into clean pipelines, reliable interfaces, and products people can actually try.<br/><br/>![Role](https://img.shields.io/badge/Role-Data%20Science%20Student-2DD4BF?style=for-the-badge) ![Base](https://img.shields.io/badge/Base-Bengaluru%2C%20India-F59E0B?style=for-the-badge) | ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge) ![Token Efficiency](https://img.shields.io/badge/Token%20Efficiency-F59E0B?style=for-the-badge) ![LLM Systems](https://img.shields.io/badge/LLM%20Systems-050816?style=for-the-badge) ![RAG Architectures](https://img.shields.io/badge/RAG%20Architectures-12355B?style=for-the-badge) ![ML Dashboards](https://img.shields.io/badge/ML%20Dashboards-2DD4BF?style=for-the-badge)<br/> 
 
 <br/>
 
@@ -67,9 +61,9 @@
 ![Build clear pipelines](https://img.shields.io/badge/Build-Clear%20Pipelines-8B5CF6?style=for-the-badge)
 ![Measure useful AI systems](https://img.shields.io/badge/Measure-Useful%20AI%20Systems-F59E0B?style=for-the-badge)
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay04p&bg_color=050816&color=E5E7EB&line=2DD4BF&point=F59E0B&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
-</p> -->
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,35:12355B,75:0B1120,100:050816&height=130&section=footer" width="100%" alt="Footer banner"/>
